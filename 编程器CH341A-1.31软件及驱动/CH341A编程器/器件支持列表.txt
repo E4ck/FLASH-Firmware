@@ -1,0 +1,197 @@
+=====================25\26 SPI FLASH系列器件支持列表=====================
+AMIC
+A25L05P                 A25L512                 A25L010                 A25L10P                 A25L020       
+A25L20P                 A25L040                 A25L40P                 A25L080                 A25L80P       
+A25L016                 A25L16P                 A25L032       
+
+ATMEL
+AT25F512                AT25F512A               AT25F512B               AT25F1024               AT25F1024A    
+AT25FS010               AT25DF021               AT25F2048               AT25DF041A              AT25F4096     
+AT25FS040               AT26DF041A              AT26F004                AT25DF081A 1.8V          AT25DL081 1.8V
+AT26DF081A              AT25DF161               AT26DF161               AT26DF161A              AT25DF321     
+AT25DF321A              AT26DF321               AT25DF641     
+
+COMMON
+25X005                  25X05                   25X10                   25X20                   25X40         
+25X80                   25X16                   25X32                   25X64                   25X128        
+25X256                  25X512                  25X1024                 25X2048       
+
+EON
+EN25B05                 EN25B05T                EN25F05                 EN25LF05                EN25P05       
+EN25D10                 EN25F10                 EN25LF10                EN25P10                 EN25D20       
+EN25F20                 EN25LF20                EN25D40                 EN25F40                 EN25LF40      
+EN25D80                 EN25F80                 EN25P80                 EN25Q80                 EN25QH80      
+EN25T80                 EN25B16                 EN25B16T                EN25D16                 EN25F16       
+EN25H16                 EN25Q16                 EN25QH16                EN25T16                 EN25B32       
+EN25B32T                EN25F32                 EN25P32                 EN25Q32                 EN25QH32      
+EN25B64                 EN25B64T                EN25F64                 EN25Q64                 EN25QH64      
+EN25F128                EN25Q128                EN25QH128     
+
+ES
+ES25P10                 ES25P20                 ES25M40                 ES25M40A                ES25P40       
+ES25M80                 ES25M80A                ES25P80                 ES25M16                 ES25M16A      
+ES25P16                 ES25P32       
+
+ESMT
+F25L004A                F25L04UA                F25L008A                F25L08PA                F25L016A      
+F25L16PA                F25L32PA                F25L32QA                F25L64PA      
+
+GIGADEVICE
+GD25Q512                GD25Q10                 GD25Q20                 GD25D40                 GD25F40       
+GD25D80                 GD25F80                 GD25Q80                 GD25T80                 GD25Q16       
+GD25Q32                 GD25Q64                 GD25Q128      
+
+INTEL
+25F160S33B              25F320S33B              25F640S33B    
+
+KH
+KH25L4006E              KH25L8006E(OTP)          KH25L8036D              KH25L1606E(OTP)
+
+MICRON
+N25Q64A       
+
+MSHINE
+MS25X05                 MS25X10                 MS25X20                 MS25X40                 MS25X80       
+MS25X16                 MS25X32                 MS25X64                 MS25X128      
+
+MXIC
+MX25L512                MX25V512 2.5V           MX25L1005               MX25L2005               MX25L2026     
+MX25L4005A              MX25U4035 1.8V(OTP)          MX25V4005 2.5V          MX25V4035 2.5V          MX25L8005     
+MX25L8006E(OTP)          MX25L8035E              MX25L8036E              MX25U8033E 1.8V          MX25U8035 1.8V(OTP)
+MX25V8005 2.5V          MX25V8006E 2.5V          MX25V8035 2.5V          MX25L1605D              MX25L1606E(OTP)
+MX25L1608D(OTP)          MX25L1608E(OTP)          MX25L1633E              MX25L1635E(OTP)          MX25L1636D    
+MX25L1636E              MX25U1635E 1.8V(OTP)          MX25L3205D              MX25L3206E(OTP)          MX25L3208D(OTP)
+MX25L3208E(OTP)          MX25L3225D              MX25L3233F(OTP)          MX25L3235D              MX25L3235E(OTP)
+MX25L3236D              MX25L3236F(OTP)          MX25L3237D              MX25L3239E(OTP)          MX25L3273E(OTP)
+MX25L3273F(OTP)          MX25U3235E 1.8V          MX25L6405D              MX25L6406E(OTP)          MX25L6408D(OTP)
+MX25L6408E(OTP)          MX25L6433F(OTP)          MX25L6436E(OTP)          MX25L6436F(OTP)          MX25L6439E(OTP)
+MX25L6445E(OTP)          MX25L6455E              MX25L6465E(OTP)          MX25L6473E(OTP)          MX25L6473F(OTP)
+MX25L6475E(OTP)          MX25U6435E 1.8V(OTP)          MX25L12805D(OTP)          MX25L12835E             MX25L12835F(OTP)
+MX25L12836E(OTP)          MX25L12839F(OTP)          MX25L12845E(OTP)          MX25L12855E(OTP)          MX25L12865E(OTP)
+MX25L12873F(OTP)          MX25U12835F 1.8V          MX25L25635E(OTP)          MX25L25635F(OTP)          MX25L25639F(OTP)
+MX25L25735E(OTP)          MX25L51245G(OTP)
+
+NEXFLASH
+NX25P10                 NX25P20                 NX25P40                 NX25P80                 NX25P16       
+NX25P32       
+
+PMC
+PM25LV512A              PM25LV010A              PM25LV020               PM25LV040               PM25LV080B    
+PM25LV016B    
+
+SAIFUN
+SA25F005                SA25F010                SA25F020                SA25F040                SA25F080      
+SA25F160                SA25F320      
+
+SPANSION
+S25FL001                S25FL002                S25FL004                S25FL040                S25FL008      
+S25FL016                S25FL160                S25FL032                S25FL064                S25FL128      
+S25FL129                S25FL256                S25FL512      
+
+SST
+SST25VF512              SST25VF512A             SST25VF010              SST25VF010A             SST25LF020A   
+SST25VF020              SST25VF020A             SST25VF040              SST25VF040A             SST25VF040B   
+SST25VF080B             SST25VF016B             SST25VF032B             SST25VF064C   
+
+ST
+M25P05A                 M25P10A                 M25PE10                 M25P20                  M25PE20       
+M25P40                  M25PE40                 M25P80                  M25PE80                 M25PX80       
+M25P16                  M25PE16                 M25PX16                 M25P32                  M25PE32       
+M25PX32                 M25P64                  M25PE64                 M25PX64                 M25P128       
+
+WINBOND
+W25P10                  W25X10                  W25X10A                 W25X10AL                W25X10L       
+W25P20                  W25Q20BW                W25X20                  W25X20A                 W25X20AL      
+W25X20L                 W25P40                  W25Q40BV                W25Q40BW                W25X40        
+W25X40A                 W25X40AL                W25X40L                 W25P80                  W25Q80BV      
+W25Q80BW                W25Q80V                 W25X80                  W25X80A                 W25X80AL      
+W25X80L                 W25P16                  W25Q16BV                W25Q16DW                W25Q16V       
+W25X16                  W25P32                  W25Q32BV                W25Q32DW                W25Q32FV      
+W25Q32V                 W25X32                  W25P64                  W25Q64BV                W25Q64DW      
+W25Q64FV                W25Q64FW                W25X64                  W25Q128BV               W25Q128DW     
+W25Q128FV               W25Q128FW               W25Q256BV               W25Q256FV     
+=====================25\26 SPI FLASH系列器件支持列表=====================
+
+=====================25 SPI EEPROM系列器件支持列表=====================
+ATMEL
+AT25010                 AT25020                 AT25040                 AT25080                 AT25160       
+AT25320                 AT25640                 AT25128                 AT25256                 AT25512       
+
+MICROCHIP
+25AA080C                25AA080D                25C080 5V               25LC080C                25LC080D      
+25AA160                 25C160 5V               25LC160                 25AA320                 25C320 5V     
+25LC320                 25AA640                 25C640 5V               25LC640                 25AA256       
+25LC256                 25AA1024                25LC1024      
+=====================25 SPI EEPROM系列器件支持列表=====================
+
+=====================24 EEPROM系列器件支持列表=====================
+ATMEL
+AT24C01                 AT24C01A                AT24C01B                AT24C02                 AT24C02A      
+AT24C02B                AT24C04B                AT24C04                 AT24C04A                AT24C08       
+AT24C08A                AT24C08B                AT24C16B                AT24C16                 AT24C16A      
+AT24C32B                AT24C32A                AT24C32                 AT24C64                 AT24C64A      
+AT24C64B                AT24C128B               AT24C128                AT24C128A               AT24C256B     
+AT24C256                AT24C256A               AT24C512B               AT24C512A               AT24C512      
+AT24C1024               AT24C1024A              AT24C1024B    
+
+CATALYST
+CAT24C01                CAT24WC01               CAT24WC02               CAT24C02                CAT24C04      
+CAT24WC04               CAT24WC08               CAT24C08                CAT24WC16               CAT24C16      
+CAT24WC32               CAT24C32                CAT24WC64               CAT24C64                CAT24WC128    
+CAT24C128               CAT24WC256              CAT24C256               CAT24C512               CAT24WC512    
+CAT24C1024              CAT24WC1024   
+
+COMMON
+24C01 3V                24C01 5V                24C02 3V                24C02 5V                24C04 5V      
+24C04 3V                24C08 3V                24C08 5V                24C16 5V                24C16 3V      
+24C32 5V                24C32 3V                24C64 5V                24C64 3V                24C128 5V     
+24C128 3V               24C256 5V               24C256 3V               24C512 5V               24C512 3V     
+24C1024 3V              24C1024 5V              24C2048 5V              24C2048 3V              24C4096 5V    
+24C4096 3V    
+
+FAIRCHILD
+FM24C01L                FM24C02L                FM24C03L                FM24C04L                FM24C05L      
+FM24C08L                FM24C09L                FM24C17L                FM24C16L                FM24C32L      
+FM24C64L                FM24C128L               FM24C256L               FM24C512L               FM24C1
+
+HOLTEK
+HT24C01                 HT24LC01                HT24C02                 HT24LC02                HT24C04       
+HT24LC04                HT24C08                 HT24LC08                HT24C16                 HT24LC16      
+HT24LC32                HT24C32                 HT24LC64                HT24C64                 HT24C128      
+HT24LC128               HT24C256                HT24LC256               HT24LC512               HT24C512      
+HT24C1024               HT24LC1024    
+
+ISSI
+IS24C01                 IS24C02                 IS24C04                 IS24C08                 IS24C16       
+IS24C32                 IS24C64                 IS24C128                IS24C256                IS24C512      
+IS24C1024     
+
+MICROCHIP
+MIC24LC014              MIC24AA01               MIC24AA014              MIC24LC01B              MIC24LC02B    
+MIC24AA02               MIC24C02C               MIC24AA04               MIC24AA025              MIC24LC04B    
+MIC24LC024              MIC24LC025              MIC24AA024              MIC24LC08B              MIC24AA08     
+MIC24LC16B              MIC24AA16               MIC24LC32               MIC24AA32               MIC24LC64     
+MIC24FC64               MIC24AA64               MIC24FC128              MIC24AA128              MIC24LC128    
+MIC24AA256              MIC24LC256              MIC24FC256              MIC24AA512              MIC24LC512    
+MIC24FC512              MIC24AA1024   
+
+NSC
+NSC24C02L               NSC24C02                NSC24C64      
+
+RAMTRON
+FM24CL04                FM24C04A                FM24CL16                FM24C16A                FM24CL64      
+FM24C64                 FM24C256                FM24CL256               FM24C512      
+
+ROHM
+BR24L01                 BR24C01                 BR24L02                 BR24C02                 BR24L04       
+BR24C04                 BR24L08                 BR24C08                 BR24L16                 BR24C16       
+BR24L32                 BR24C32                 BR24C64                 BR24L64       
+
+ST
+ST24C01                 ST24C02                 ST24C04                 ST24C08                 ST24C16       
+ST24C32                 ST24C64       
+
+XICOR
+X24C01                  X24C02                  X24C04                  X24C08                  X24C16        
+
+=====================24 EEPROM系列器件支持列表=====================
